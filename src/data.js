@@ -54,8 +54,7 @@ export const skills = [
   "Python",
   "JavaScript",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
+  "Java",
+  "C++",
   "Material UI",
 ];
