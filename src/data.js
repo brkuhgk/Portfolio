@@ -53,8 +53,7 @@ export const testimonials = [
 export const skills = [
   "Python",
   "JavaScript",
-  "React",
+  "Machine Learning",
   "Java",
   "C++",
-  "Material UI",
 ];
