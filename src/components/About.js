@@ -12,8 +12,7 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Set no bounderies to learn, Most of my I spend wrting code not because of fun always,
-            It also teaches discipline and planing.
+            Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
    
           </p>
           <div className="flex justify-center">
