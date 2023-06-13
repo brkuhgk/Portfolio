@@ -1,6 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
+   "homepage": "https://brkuhgk.github.io/Portfolio",
   "private": true,
   "dependencies": {
     "@craco/craco": "^5.9.0",
